@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="14.116">
+ <testsuite name="Authentication capabilities" timestamp="2018-12-17T21:09:15" hostname="localhost" time="14.116" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Authentication capabilities" name="should redirect to the login page if trying to load protected page while not authenticated" time="7.584" />
+  <testcase classname="Authentication capabilities" name="should accept a valid id address and password" time="1.549" />
+  <testcase classname="Authentication capabilities" name="Should Add a New Employee" time="4.981" />
+ </testsuite>
+</testsuites>
